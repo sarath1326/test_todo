@@ -1,0 +1,111 @@
+
+
+
+.home-main{
+
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(7, 7, 67);
+    padding-top: 30px;
+    
+}
+
+.home-main h5{
+
+     text-align: center;
+     color: white;
+}
+
+.input-main{
+
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-main input{
+
+    width: 400px;
+    height: 40px;
+}
+
+.input-btn{
+
+      height: 40px;
+      background-color: brown;
+      color: white;
+}
+
+.data-min-box{
+
+      
+       width: 100%;
+       height: 500px;
+       /* background-color: white; */
+       display: flex;
+       justify-content: center;
+}
+
+.data-box{
+
+     width: 600px;
+     height: 100%;
+     /* background-color: black; */
+     padding-top: 30px;
+}
+
+.data{
+
+    color: white;
+    text-align: center;
+   
+}
+
+
+.tick-mark{
+
+     color: green;
+     margin-left: 10px;
+}
+
+.delete-icon{
+
+     color: red;
+     margin-left: 10px;
+     font-size: 20px;
+     margin-bottom: 5px;
+}
+
+.data span{
+
+     font-size: 20px;
+}
+
+.data input{
+
+     margin-left: 10px;
+}
+
+.filter-icon{
+
+     
+      font-size: 25px;
+      color: white;
+}
+
+.togil{
+
+      background-color:rgb(7, 7, 67);
+      margin-left: 10px;
+      border: none;
+}
+
+.togil:hover{
+
+     background-color:rgb(7, 7, 67) ;
+     
+}
