@@ -15,15 +15,15 @@ function App() {
     <div>
 
 
-     
-        <Routes >
-
-          <Route element={<Home />} path='/' />
 
 
-        </Routes>
 
-     
+      <Home />
+
+
+
+
+
 
 
 
